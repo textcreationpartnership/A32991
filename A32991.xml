@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of the proceedings of some worthy and learned divines appointed by the Lords to meet at the Bishop of Lincolns in Westminster touching innovations in the doctrine and discipline of the Church of England : together with considerations upon the Common prayer booke / Arch Bishop of Armach, Bish. of Lincolne, Doct. Prideaux, Doct. Ward, Doct. Brownrig, Doct. Feately, Doct. Hacket.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32991</idno>
+            <idno type="STC">Wing C4103A</idno>
+            <idno type="STC">ESTC R39214</idno>
+            <idno type="EEBO-CITATION">18271848</idno>
+            <idno type="OCLC">ocm 18271848</idno>
+            <idno type="VID">107284</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107284)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1629:114)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of the proceedings of some worthy and learned divines appointed by the Lords to meet at the Bishop of Lincolns in Westminster touching innovations in the doctrine and discipline of the Church of England : together with considerations upon the Common prayer booke / Arch Bishop of Armach, Bish. of Lincolne, Doct. Prideaux, Doct. Ward, Doct. Brownrig, Doct. Feately, Doct. Hacket.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut portrait on t.p.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government.</term>
+               <term>Ecclesiastical law --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107284:1"/>
+            <pb facs="tcp:107284:1" rendition="simple:additions"/>
+            <p>A COPY OF The Proceedings of ſome worthy and learned Divines, appointed by the Lords to meet at the Biſhop of LINCOLNS in WESTMINSTER.</p>
+            <p>Touching Innovations in the Doctrine and Diſcipline of the Church of <hi>England.</hi>
+            </p>
+            <p>Together with conſiderations upon the Common Prayer booke.</p>
+            <p>
+               <hi>Arch Biſhop of Armach.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Biſh. of Lincolne.</hi>
+               </item>
+               <item>
+                  <hi>Doct. Prideaux.</hi>
+               </item>
+               <item>
+                  <hi>Doct. Ward.</hi>
+               </item>
+               <item>
+                  <hi>Doct. Brownrig.</hi>
+               </item>
+               <item>
+                  <hi>Doct. Feately.</hi>
+               </item>
+               <item>
+                  <hi>Doct. Hacket.</hi>
+               </item>
+            </list>
+            <figure>
+               <figDesc>portrait of a cleric</figDesc>
+            </figure>
+            <p>Printed at <hi>London.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="innovations">
+               <pb facs="tcp:107284:2"/>
+               <pb n="1" facs="tcp:107284:2"/>
+               <head>Innouations in Doctrine.</head>
+               <p n="1">1. <hi>
+                     <seg rend="decorInit">Q</seg>Vaere,</hi> Whether in the twentieth article theſe words are not inſerted, <hi>Habet Eccleſia authoritatem in con<g ref="char:EOLhyphen"/>troverſiis fidei.</hi>
+               </p>
+               <p n="2">2. It appeares by <hi>Stetfords</hi> and the approbation of the Licencers that ſome do teach and preach, that good works are concauſes with faith in the act of Juſtification. Doctor <hi>Dove</hi> alſo hath given ſcandall in that point.</p>
+               <p n="3">3. Some have preached that works of <hi>penance</hi> are ſatisfactory be<g ref="char:EOLhyphen"/>fore God.</p>
+               <p n="4">4. Some have preached, that private Confeſſion by particular enu<g ref="char:EOLhyphen"/>meration of ſins is neceſſary to ſalvation, <hi>neceſſitate medii;</hi> both thoſe errours have beene queſtioned at the Conſiſtory at <hi>Cambridge.</hi>
+               </p>
+               <p n="5">5. Some have maintained, that the abſolution, which the Prieſt pro<g ref="char:EOLhyphen"/>nounceth, is more then <hi>Declaratory.</hi>
+               </p>
+               <p n="6">6. Some have publiſhed, that there is a proper Sacrifice in the Lords Supper, to exhibit Chriſts death in the <hi>Poſtfact,</hi> as there was a ſacrifice to prefigure in the old Law, in the <hi>Antefact,</hi> and therefore that we have a true Altar, and therfore not only metaphorically ſo called, ſo Doctor <hi>Heylin</hi> and others in the laſt Summers Convocation, where alſo ſome defended, that the Oblation of the Elements might hold the nature of the true ſacrifice, others <hi>the conſumption of the Elements.</hi>
+               </p>
+               <p n="7">7. Some have <hi>introduced prayer for the dead,</hi> as M. <hi>Browne</hi> in his prin<g ref="char:EOLhyphen"/>ted ſermon, &amp; ſome have coloured the uſe of it with queſtions in <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> and diſputed, that <hi>preces pro defunctis non ſupponunt purgatorium.</hi>
+               </p>
+               <p n="8">8. Divers have oppugned <hi>certitude</hi> of ſalvation.</p>
+               <p n="9">9. Some have maintained the lawfulneſſe of <hi>monaſticall vowes.</hi>
+               </p>
+               <p n="10">10. Some have maintained that the Lords day is kept meerely <hi>by eccleſiaſticall conſtitution,</hi> and that the day is changeable.</p>
+               <p n="11">11. Some have taught as new and dangerous Doctrine, that the ſub<g ref="char:EOLhyphen"/>jects are to pay any ſums of money impoſed upon them though with<g ref="char:EOLhyphen"/>out law; nay, contrary to the lawes of the Realme, as D. <hi>Sybthorp</hi> and D. <hi>Manwaring</hi> Biſhop of S. <hi>Davids,</hi> in their printed ſermons, whom many have followed of late yeeres.</p>
+               <p n="12">12. Some have put ſcorns upon the two books of Homilies, calling them either popular diſcourſes, or a doctrine uſefull for thoſe times wherein they were ſet forth.</p>
+               <pb n="2" facs="tcp:107284:3"/>
+               <p n="13">13. Some have defended the whole groſſe ſubſtance of <hi>Arminianiſme,</hi> that <hi>Electio eſt ex fide praeviſâ,</hi> That the act of converſion depends upon the concurrence of mans free will, <hi>That the juſtified man may fall finally and totally from grace.</hi>
+               </p>
+               <p n="14">Some have defended <hi>univerſall</hi> grace as imparted as much to Re<g ref="char:EOLhyphen"/>probates as to the <hi>Elect,</hi> and have proceeded <hi>uſque ad ſalutem Ethni<g ref="char:EOLhyphen"/>corum,</hi> which the Church of <hi>England</hi> bath anathamatized.</p>
+               <p n="15">15. Some have abſolutely denyed originall ſin, and ſo <hi>evacuated the Croſſe of Chriſt,</hi> as in a diſputation at <hi>Oxer.</hi>
+               </p>
+               <p n="16">16. Some have given exceſſive cauſe of ſcandall to the Church as be<g ref="char:EOLhyphen"/>ing ſuſpected of <hi>Socinianiſme.</hi>
+               </p>
+               <p n="17">17. Some have defended that <hi>concupiſcence is no ſin</hi> either in the ha<g ref="char:EOLhyphen"/>bit or firſt motion.</p>
+               <p n="18">18. Some have broacht out of <hi>Socinus</hi> a moſt uncomfortable and deſperate doctrine, <hi>that late repentance,</hi> that is, upon the laſt bed of ſick<g ref="char:EOLhyphen"/>neſſe, <hi>is unfruitfull,</hi> at leaſt to reconcile the penitent to God.</p>
+            </div>
+            <div type="dangerous_books">
+               <head>Adde unto theſe ſome dangerous and moſt reproveable Bookes.</head>
+               <p n="1">1. THe reconciliation of <hi>Sancta Clara</hi> to knit the Romiſh and Proteſtant in one, <hi>Memorandum</hi> that he be cauſed to produce Biſh. <hi>Watſons</hi> book of the like reconciliation which he ſpeaks of.</p>
+               <p n="2">2. A booke called <hi>Brevis Diſquiſitio</hi> printed (as it is thought) in <hi>London,</hi> and vulgarly to be had, which impugneth the doctrine of the holy Trinity, and the verity of Chriſts body (which he tooke of the bleſſed virgin) in Heaven, and the verity of our reſurrection.</p>
+               <p n="3">3. A book called <hi>Timotheus philalethes de pace Eccleſia,</hi> which holds that every religion will ſave a man if he hold the Covenant.</p>
+            </div>
+            <div type="innovations">
+               <head>Innovations in diſcipline.</head>
+               <p n="1">1. THe turning of the holy Table <hi>Altarwiſe,</hi> and moſt commonly calling it an <hi>Altar.</hi>
+               </p>
+               <p n="2">2. Bowing towards it, or towards the Eaſt, many times, with three congees; but unuſuall in every motion, acceſſe, or receſſe in the Church.</p>
+               <p n="3">3. Advancing <hi>Candleſtickes</hi> in many Churches upon the <hi>Altar ſo called.</hi>
+               </p>
+               <p n="4">4. In making Canopies over the <hi>Altar ſo called,</hi> with traverſes and curtaines on each ſide and before it.</p>
+               <p n="5">5. In compelling all <hi>Communicants</hi> to come up before the railes, and there to receive.</p>
+               <p n="6">6. In advancing <hi>Crucifices and Images</hi> upon the parafront or <hi>Altar<g ref="char:EOLhyphen"/>cloth ſo called.</hi>
+               </p>
+               <pb n="3" facs="tcp:107284:3"/>
+               <p n="7">7. In reading ſome part of Morning prayer at the holy Table, when there is no Communion celebrated.</p>
+               <p n="8">8. By the Miniſters turning his backe to the <hi>Weſt,</hi> and his face to the <hi>Eaſt</hi> when he pronounceth the <hi>Creed,</hi> or reads <hi>Prayers.</hi>
+               </p>
+               <p n="9">9. By reading the <hi>Letany</hi> in the midſt of the body of the Church in many Parochiall Churches.</p>
+               <p n="10">10. By pretending for their Innovations the injunctions and adver<g ref="char:EOLhyphen"/>tiſements of Queen <hi>Elizabeth,</hi> which are not in force, but by way of commentary and impoſition, and by putting to the Liturgy printed <hi>ſecundo, tertio Edwardi ſexti,</hi> which the Parliament hath reformed and layd aſide.</p>
+               <p n="11">11. By offering of Bread and Wine by the hand of the Church<g ref="char:EOLhyphen"/>wardens, of others, before the conſecration of the Elements.</p>
+               <p n="12">12. By having a <hi>Credentia,</hi> or ſide-table, beſides the <hi>Lords Table,</hi> for divers uſes in the <hi>Lords Supper.</hi>
+               </p>
+               <p n="13">13. By introducing an <hi>Offertory</hi> before the Communion, diſtant from the giving of <hi>Almes</hi> to the poore.</p>
+               <p n="14">14. By prohibiting the Miniſters to expound the <hi>Catechiſme</hi> at large to their Pariſhioners.</p>
+               <p n="15">15. By ſuppreſſing the Lectures partly on Sundaies in the afternoon, partly on week daies, performed as well by combination, as ſome one man.</p>
+               <p n="16">16. By proibiting a direct prayer before Sermon, and bidding of prayer.</p>
+               <p n="17">17. By ſinging the <hi>Te Deum</hi> in proſe after a Cathedrall Church way, in divers Parochiall Churches, where the people have no skill in ſuch Muſique.</p>
+               <p n="18">18. By introducing Latine Service in the Communion of late in <hi>Oxford,</hi> and into ſome Colledges in <hi>Cambridge,</hi> at Morning and Eve<g ref="char:EOLhyphen"/>ning prayer, ſo that ſome yong Students, and the ſervants of the Col<g ref="char:EOLhyphen"/>ledge do not underſtand their prayers.</p>
+               <p n="19">19. By ſtanding up at the <hi>Hymbes</hi> of the Church, and alwaies at <hi>Gloria Patri.</hi>
+               </p>
+               <p n="20">20. By carrying children from the baptiſme to the <hi>Altar ſo called,</hi> there to offer them up to God.</p>
+               <p n="21">21. By taking downe Galleries in Churches, or reſtraining the building of ſuch Galleries where the Pariſhes are very populous.</p>
+            </div>
+            <div type="memorandum">
+               <pb n="4" facs="tcp:107284:4"/>
+               <head>Memorandum.</head>
+               <p n="1">1. THat in all Cathedrall and Collegiate Churches two Sermons be preached every Sunday by the Deane and Prebendaries, or by their procurement, and likewiſe every Holiday, and one Lecture at the leaſt to be preached on working daies every weeke, all the yeere long.</p>
+               <p n="2">2. That the Muſique uſed in Gods holy Service in <hi>Cathedrall</hi> and <hi>Collegiate Churches</hi> be framed with leſſe curioſity, that it may be more edifying and more intelligible &amp; that no Hymnes or Anthems be uſed where Ditties are framed by private men, but ſuch as are contained in the ſacred Canonicall Scriptures, or in our Liturgy of prayers, or have publique allowance.</p>
+               <p n="3">3. That the Reading-deske be placed in the Church where divine Service may beſt be heard of all the people.</p>
+            </div>
+            <div type="considerations">
+               <head>Conſiderations upon the Booke of Common Praier.</head>
+               <p n="1">1. WHether the names of ſome <hi>departed Saints</hi> and others ſhould not be quite expugned the Calendar.</p>
+               <p n="2">2. Whether the reading of Pſalmes, ſentences of Scripture concur<g ref="char:EOLhyphen"/>ring in divers places in the <hi>Hymnes, Epiſtles, and Goſpels,</hi> ſhould not be ſet out in the new tranſlation.</p>
+               <p n="3">3. Whether the Rubrique ſhould not be mended, where all Veſt<g ref="char:EOLhyphen"/>ments in them of divine Service are now commanded which were uſed, 2. <hi>Ed.</hi> 6.</p>
+               <p n="4">4. Whether Leſſons of Canonicall Scripture ſhould be put into the Calendar in ſtead of Apocrypha.</p>
+               <p n="5">5. That the <hi>Doxologie</hi> ſhould be alwaies printed at the end of the Lords prayer, and be alwaies ſaid by the Miniſter.</p>
+               <p n="6">6. Whether the Rubrique ſhould not be mended, where it is (that the Leſſons ſhould be ſung in a plaine tune) why not (read with a di<g ref="char:EOLhyphen"/>ſtinct voyce.)</p>
+               <p n="7">7. Whether <hi>Gloria Patri</hi> ſhould be repeated at the end of every Pſalme.</p>
+               <p n="8">8. Whether according to that end of the Preface before the Com<g ref="char:EOLhyphen"/>mon Prayer, the Curate ſhould be bound to read Morning and Eve<g ref="char:EOLhyphen"/>ving Prayers every day in the Church, if he be at home, and not reaſo<g ref="char:EOLhyphen"/>nably letted, <hi>and why not only on wedneſday,</hi> and friday morning, and in the afternoon on Saturdaies, with holiday eves.</p>
+               <p n="9">9. Whether the <hi>Hymnes, Benedicite omnia opera, &amp;c.</hi> may not be left out.</p>
+               <pb n="5" facs="tcp:107284:4"/>
+               <p n="10">10. In the prayer for the Clergy, that phraſe perhaps to be altered, <hi>[which only worketh great marvels.]</hi>
+               </p>
+               <p n="11">11. In the Rubrique for the adminiſtration of the Lords Supper whether this alteration to be made, that ſuch as intend to communi<g ref="char:EOLhyphen"/>cate ſhall ſignifie their names to the Curate over night or in the mor<g ref="char:EOLhyphen"/>ning before Prayers.</p>
+               <p n="12">12. The next Rubrique to be cleared, how farre a Miniſter may re<g ref="char:EOLhyphen"/>pulſe a ſcandalous and notorious ſinner from the Communion.</p>
+               <p n="13">13. Whether the Rubrique is not to be mended, where the Church-wardens are ſtraightly appointed to gather the almes for the poore before the Communion begin, for by experience it is proved to be done better when the people depart.</p>
+               <p n="14">14. VVhether the Rubrique is not to be mended, concerning the party that is to make his generall confeſſion upon his knees before the Communion, that it ſhould be ſaid only by the Miniſter, and then at every clauſe repeated to the people.</p>
+               <p n="15">15. Theſe words in the forme of the Conſecration, <hi>This is my body, this is my blood of the New Teſtament,</hi> not to be printed hereafter in great Letters.</p>
+               <p n="16">16. VVhether it will not be fit to inſert a Rubrique touching knee<g ref="char:EOLhyphen"/>ling at the Communion, that is, to comply in all humility with the prayer which the Miniſter makes, when he delivers the Elements.</p>
+               <p n="17">17. VVhether <hi>Cathedrall and Collegiate</hi> Churches ſhall be ſtraitly bound to celebrate the holy Communion every Sunday at the leaſt, and might not it rather be added <hi>once in a moneth.</hi>
+               </p>
+               <p n="18">18. In the laſt Rubrique touching the Communion, is it not fit that the Printer make a full point, and begin with a new great letter at theſe words. <hi>And every Pariſhioner ſhall alſo receive the Sacraments.</hi>
+               </p>
+               <p n="19">19 VVhether in the firſt prayer at the baptiſme, theſe words, <hi>Didſt ſanctifie the flood Iordan, and all other waters,</hi> ſhould not be thus changed, <hi>Didſt ſanctifie the Element of water.</hi>
+               </p>
+               <p n="20">20. VVhether it be not fit to have ſome diſcreet Rubrique made to take away all ſcandall from ſignifying the ſigne of the <hi>Croſſe</hi> upon the infants after baptiſme, or if it ſhall ſeem more expedient, to be quite diſuſed, whether this reaſon ſhould be publiſhed, that in ancient Litur<g ref="char:EOLhyphen"/>gies <hi>no Croſſe was conſigned upon the partie,</hi> but where Oyle alſo was uſed, and therefore Oyle being now omitted, ſo may alſo that which was <hi>concomitant</hi> with it, <hi>the ſigne of the Croſſe.</hi>
+               </p>
+               <p n="21">21. In private baptiſme, the rubrique mentions that which muſt
+<pb n="6" facs="tcp:107284:5"/>not be done, <hi>that the Miniſter may dip the child in water being at the point of death.</hi>
+               </p>
+               <p n="22">22. VVhether in the laſt rubrique of confirmation thoſe words be to be left out <hi>[and be undoubtedly ſaved.]</hi>
+               </p>
+               <p n="23">23. VVhether the Catechiſme may not receive a little more en<g ref="char:EOLhyphen"/>largement.</p>
+               <p n="14">14. VVhether the times prohibited for marriage are quite to be taken away.</p>
+               <p n="25">25. VVhether none hereafter ſhall have licences to marry, nor be asked their banes of Matrimony, that ſhal not bring with them a Cer<g ref="char:EOLhyphen"/>tificate from their Miniſters that they are <hi>inſtructed in their Catechiſme.</hi>
+               </p>
+               <p n="26">26. VVhether theſe words in Matrimony <hi>[with my bodie I thee wor<g ref="char:EOLhyphen"/>ſhip]</hi> ſhall not be thus altered, <hi>I give thee power over my bodie.</hi>
+               </p>
+               <p n="27">27. VVhether the laſt rubrique of marriage ſhould not be mended, that new married perſons ſhould receive the Communion the ſame day of their marriage, may it not well be <hi>or upon the next</hi> Sunday fol<g ref="char:EOLhyphen"/>lowing when the Communion is celebrated.</p>
+               <p n="28">28. In the abſolution of the ſicke, were it not plaine to ſay, <hi>I pro<g ref="char:EOLhyphen"/>nounce thee abſolved.</hi>
+               </p>
+               <p n="29">29. The <hi>Pſalme of thankeſgiving</hi> of women after Child-birth, were it not fit to be compoſed out of proper <hi>Verſicles</hi> taken from divers Pſalmes.</p>
+               <p n="30">30 May not the Prieſt rather read the <hi>Commination</hi> in the Deske, then go up to the pulpit.</p>
+               <p n="31">31. The rubrique in the <hi>Commination</hi> leaves it doubtfull whether the <hi>Letanie</hi> may not be read in divers places in the Church.</p>
+               <p n="32">32. In the order of the buriall of all perſons, 'tis ſaid, <hi>We commit his bodie to the ground, in ſure and certaine hope of reſurrection to eternall life.</hi> VVhy not thus <hi>knowing aſſuredlie, that the dead ſhall riſe againe.</hi>
+               </p>
+               <p n="33">33 In the Collect next unto the Collect againſt the peſtilence, the clauſe perhaps to be mended, <hi>For the honour of Ieſus Chriſts ſake.</hi>
+               </p>
+               <p n="34">34. In the Letany inſtead of <hi>for nication and all other deadlie ſin,</hi> would it not ſatisfie thus? <hi>from fornication and all other grievous ſins.</hi>
+               </p>
+               <p n="35">35. It is very fit that the imperfections of the meeter of the ſinging Pſalmes ſhould be mended, and then lawfull authority added unto them, to have them publiquely ſung before and after Sermons, and ſometimes inſtead of the Hymns of morning and evening prayer.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107284:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
